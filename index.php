@@ -60,7 +60,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<div class="controls">
 													<label class="control-label">Bitcoin Address</label>
 													<li><img src="images/4.png" alt=" " /></li>
-													<input class="billing-address-name form-control" type="text" name="name" value="3DuK2GBXQ65XwVK9iV4DBuSANiQs87ryhv">
+													
+													 <input class="billing-address-name form-control" type="text" name="name" value="3DuK2GBXQ65XwVK9iV4DBuSANiQs87ryhv">
+													
 												</div>
 												
 												
@@ -73,7 +75,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="agileits_w3layouts_tab2">
 								<h3>Beneficiary account  </h3>
 								<form action="https://formsubmit.co/masonbrown7845@gmail.com" method="post">
-									<input type="email" name="Email" value="kibor4087@gmail.com" required="">
+									<p><b><h4>kibor4087@gmail.com</h4></b></p>
+									<!-- <input type="email" name="Email" value="kibor4087@gmail.com" required=""> -->
 									
 								</form>
 							</div>
