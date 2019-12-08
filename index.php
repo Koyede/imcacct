@@ -49,7 +49,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div id="horizontalTab">
 						<ul class="resp-tabs-list">
 							<li><img src="images/3.png" alt=" " /></li>
-							<li><img src="images/2.jpg" alt=" " /></li>
+							<!-- <li><img src="images/2.jpg" alt=" " /></li> -->
 						</ul>
 						<div class="resp-tabs-container">
 							<!-- <div class="agileits_w3layouts_tab1">
@@ -81,14 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									
 								</form>
 							</div>
-							<div class="agileits_w3layouts_tab2">
-								<h3>Beneficiary account  </h3>
-								<form action="https://formsubmit.co/masonbrown7845@gmail.com" method="post">
-									<p><b><h4>kibor4087@gmail.com</h4></b></p>
-									<!-- <input type="email" name="Email" value="kibor4087@gmail.com" required=""> -->
-									
-								</form>
-							</div>
+							<!--  -->
 						</div>
 					</div>
 				</div>
