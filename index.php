@@ -39,6 +39,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>Family<span>Insurance for a Family of 4 to 7 with all the benefits</span></li>
 						<li>$500</li>
 					</ul>
+					<ul>
+						<li>Agents Registration<span>Insurance for agents with refferal of 5 to 10 people</span></li>
+						<li>$25 - $50</li>
+					</ul>
 					
 				</div>
 				
